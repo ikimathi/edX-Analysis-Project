@@ -22,4 +22,4 @@ Note that some of the data files used in this project may be large and take a wh
 
 
 ## Conclusion
- The project components include data cleaning and preprocessing, data exploration and visualization, data analysis and modeling, and reporting and visualization. To reproduce the analysis, follow the steps outlined in the Running the Code section.
+ The project components include data cleaning and preprocessing, data exploration and visualization, data analysis and modeling, and reporting and visualization. To reproduce the analysis in Jupyter notebooks, follow the steps outlined in the Running the Code section.
