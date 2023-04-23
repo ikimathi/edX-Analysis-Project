@@ -1,6 +1,8 @@
 # edX Analysis Project
 
-![alt_text](https://github.com/ikimathi/edX-Analysis-Project/blob/origin/edX-analysis-report.png?raw=true)
+![alt_text](https://github.com/ikimathi/edX-Analysis-Project/blob/origin/data/edX-analysis-report.png?raw=true)
+
+
 edX is a massive open online course (MOOC) provider founded by Harvard and MIT. It hosts a wide range of online university-level courses in different disciplines. This project is an analysis of the edx dataset with the aim of providing insights and answers to specific research questions. This readme file provides a brief overview of the project and its components, as well as instructions on how to run the code and reproduce the results.
 
 
